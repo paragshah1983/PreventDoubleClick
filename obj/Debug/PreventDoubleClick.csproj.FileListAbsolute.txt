@@ -1,0 +1,7 @@
+C:\Projects\PreventDoubleClick\PreventDoubleClick\bin\PreventDoubleClick.dll.config
+C:\Projects\PreventDoubleClick\PreventDoubleClick\bin\PreventDoubleClick.dll
+C:\Projects\PreventDoubleClick\PreventDoubleClick\bin\PreventDoubleClick.pdb
+C:\Projects\PreventDoubleClick\PreventDoubleClick\obj\Debug\PreventDoubleClick.csprojAssemblyReference.cache
+C:\Projects\PreventDoubleClick\PreventDoubleClick\obj\Debug\PreventDoubleClick.csproj.CoreCompileInputs.cache
+C:\Projects\PreventDoubleClick\PreventDoubleClick\obj\Debug\PreventDoubleClick.dll
+C:\Projects\PreventDoubleClick\PreventDoubleClick\obj\Debug\PreventDoubleClick.pdb
